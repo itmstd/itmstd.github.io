@@ -1,11 +1,11 @@
 {
-    "name": "inv2",
-    "short_name": "inv2",
+    "name": "gifmaker",
+    "short_name": "gifmaker",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Interview Project 2",
+    "description": "Gif Maker",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
